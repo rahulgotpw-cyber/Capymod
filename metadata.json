@@ -1,0 +1,6 @@
+{
+  "name": "CapyMod",
+  "description": "A premium and simple website to safely download CapCut Mod APK. Features file verification, SEO optimization, and bug reporting.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
